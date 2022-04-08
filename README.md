@@ -1,6 +1,25 @@
-# init_app
+# Flutter Mozi Movie App
 
-A new Flutter project.
+
+Aplikasi Flutter ini berguna untuk memberikan informasi seputar film / series secara dinamis dengan menggunakan TMDB API.
+
+- [x] Home Page
+- [x] Movie Details Page
+- [] Third Page
+- [] Fourth Page
+
+<table>
+  <tr>
+    <td valign="top"><img src="assets/poster.png" height="auto" width="250"> </td>
+  </tr>
+</table>
+
+Assets From:
+- TMDB API => https://www.themoviedb.org/
+- UI Kit => https://pixel.buildwithangga.com/details/mozi-movie-streaming-ui-kit-mobile
+
+## Author
+[@ahmoodrzl](https://www.instagram.com/ahmoodrzl/ "Instagram") / Ahmad Rizal Imaduddin
 
 ## Getting Started
 
