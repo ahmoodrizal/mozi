@@ -5,12 +5,12 @@ Aplikasi Flutter ini berguna untuk memberikan informasi seputar film / series se
 
 - [x] Home Page
 - [x] Movie Details Page
-- [] Third Page
-- [] Fourth Page
+- [ ] Third Page
+- [ ] Fourth Page
 
 <table>
   <tr>
-    <td valign="top"><img src="assets/poster.png" height="auto" width="250"> </td>
+    <td valign="top"><img src="assets/poster.png" height="auto" width="450"> </td>
   </tr>
 </table>
 
