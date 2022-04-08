@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 # Flutter Mozi Movie App
 
 
